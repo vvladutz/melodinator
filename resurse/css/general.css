@@ -417,7 +417,7 @@ figure {
     background-image:
         linear-gradient(to right, var(--culoare-background) 35%, transparent 35%, transparent 90%, var(--culoare-background) 90%),  
         linear-gradient(to right, var(--culoare-site) 45%, transparent 45%, transparent 100%, var(--culoare-site) 100%), 
-        linear-gradient(to right, var(--culoare-background) 35%, transparent 35%, transparent 90%, var(--culoare-background) 90%) !important; 
+        linear-gradient(to right, var(--culoare-background) 35%, transparent 35%, transparent 90%, var(--culoare-background) 90%); 
     background-repeat: repeat-x;
     background-size: 40px 4px;
     background-position: 
@@ -426,11 +426,30 @@ figure {
         0 8px;     
 }
 
-#original, #oglindit {
-
-    display: inline-block;
-    transition: color 0.3s ease;
+#oglinda {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    padding: 2rem;
 }
+
+#text-reflectat {
+    transform: scaleX(-1) rotateY(15deg) skewY(-15deg);
+}
+
+#text{	
+    transform: rotateY(15deg) skewY(-15deg);
+	position:relative;
+}
+
+#text, #text-reflectat{
+	font-size:50px;
+	line-height:50px;
+	font-weight: bold;
+    transition: all 0.75s linear;
+}
+
+
 
 img {
     width: 100%;
