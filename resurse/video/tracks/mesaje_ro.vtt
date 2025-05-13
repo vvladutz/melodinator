@@ -1,0 +1,26 @@
+WEBVTT - PISICUTA
+
+STYLE
+::cue {
+  background-image: linear-gradient(to right, #F5524C, #F2E2D8);
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-align: center;
+  line-height: 1.2;
+  white-space: normal;
+}
+
+00:00.000 --> 00:04.000 
+aceasta pisicuta e 
+un client foarte fericit!
+
+
+00:04.000 --> 00:08.000
+a cumparat 
+the beatles - abbey road. 
+
+
+00:16.700 --> 00:19.000
+"hei! ma cheama ivi 
+si sunt foarte fericita!" 

@@ -1,0 +1,56 @@
+{
+    "cale_baza": "/resurse/imagini/erori",
+    "eroare_default":{
+        "titlu":"eroare!!!",
+        "text": "ceva nu merge. oare ce?",
+        "imagine":"interzis.png"
+    },
+    "info_erori": [
+        {
+            "identificator":404,
+            "status":true,
+            "titlu":"404 - NU AM GASIT PAGINA",
+            "text": "PAGINA NU A FOST GASITA. ATI SCRIS CORECT?",
+            "imagine":"lupa.png"
+        },
+        {
+            "identificator":403,
+            "status":true,
+            "titlu":"403 - NU AI VOIE",
+            "text": "te rog nu mai accesa pagina asta. nu ai acces. pa",
+            "imagine":"interzis.png"
+        },
+        {
+            "identificator":400,
+            "status":true,
+            "titlu":"400 - bad request",
+            "text": "bad request... (cerere gresita)",
+            "imagine":"interzis.png"
+        },
+        
+        {
+            "identificator":1,
+            "status":false,
+            "titlu":"INCA NU A FOST CREAT",
+            "text": "NE CHINUIM SA CREEM...",
+            "imagine":"interzis.png"
+        },
+        
+        {
+            "identificator":2,
+            "status":false,
+            "titlu":"DATA BASE ERROR",
+            "text": "ceva nu e bine... SELECT ERROR IN DATA BASE",
+            "imagine":"interzis.png"
+        },
+        
+        {
+            "identificator":3,
+            "status":false,
+            "titlu":"DATE GRESITE",
+            "text": "REVERIFICATI DATELE",
+            "imagine":"interzis.png"
+        }
+    ]
+}
+  

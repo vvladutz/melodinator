@@ -1,0 +1,24 @@
+WEBVTT - LITTLE KITTY
+
+STYLE
+::cue {
+    color: white;
+    text-align: center;
+    outline: 5px solid black;
+};
+
+STYLE
+::cue(#trei) {
+    color: blue;
+    font-size: 40px;
+}
+
+00:00.000 --> 00:04.000 
+this little kitty is a very happy client!
+
+00:04.000 --> 00:08.000
+she bought abbey road by the beatles. 
+
+trei
+00:16.700 --> 00:19.000
+"hej! my name is ivi and i am very happy!" 

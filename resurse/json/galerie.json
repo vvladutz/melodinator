@@ -1,0 +1,54 @@
+{
+	"cale_galerie":"resurse/imagini/galerie",
+	"imagini": [
+		{
+			"fisier":"vinyl_mare.png",
+            "nume": "colectie de viniluri",
+            "autor": "Andrew Patra",
+			"descriere":"colectie de vinyl-uri",
+			"luni":["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august",
+                    "septembrie", "octombrie", "noiembrie", "decembrie"]
+		},
+        {
+            "fisier":"will_mare.png",
+            "nume": "WILL",
+            "autor": "Getchoo",
+			"descriere":"album",
+			"luni":["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august",
+                    "septembrie", "octombrie", "noiembrie", "decembrie"]
+        },
+        {
+            "fisier":"ha_cb_mare.png",
+            "nume": "Happy Anniversary, Charlie Brown!",
+            "autor": "Multiple artists",
+			"descriere":"album compilatie",
+			"luni":["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august",
+                    "septembrie", "octombrie", "noiembrie", "decembrie"]
+        },
+        {
+            "fisier":"tmttr_mare.png",
+            "nume": "Take Me To The River, Thank You For Sending Me An Angel",
+            "autor": "Talking Heads",
+			"descriere":"single",
+			"luni":["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august",
+                    "septembrie", "octombrie", "noiembrie", "decembrie"]
+        },
+        {
+            "fisier":"de_la_nasaud_la_vale_mare.png",
+            "nume": "De la Nasaud la vale",
+            "autor": "Saveta Bogdan",
+			"descriere":"album",
+			"luni":["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august",
+                    "septembrie", "octombrie", "noiembrie", "decembrie"]
+        },
+        {
+            "fisier":"caveworld_mare.png",
+            "nume": "Caveworld",
+            "autor": "Viagra Boys",
+			"descriere":"album",
+			"luni":["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august",
+                    "septembrie", "octombrie", "noiembrie", "decembrie"]
+        }
+		
+	]
+}

@@ -1,0 +1,35 @@
+@use '../../node_modules/bootstrap/scss/bootstrap.scss' as bs with 
+(
+    $primary: #F5C04C,
+    $secondary: #F2E2D8,
+    $body-bg: #F2E2D8, 
+    $light: #FFF6E0,
+    $dark: #1E1E1E,
+    $body-color: #F5524C,
+    $link-color: #F5C04C,
+    $grid-breakpoints: ( sm: 800px,   
+    md: 1200px,  
+    lg: 1400px,
+    xl: 1600px,
+    xxl: 1800px
+    ),
+    $border-radius: 1rem,
+    $border-radius-lg: 1.5rem,
+    $border-radius-sm: 0.5rem,
+    $h1-font-size: 3rem,
+    $h2-font-size: 2.5rem,
+    $h3-font-size: 2rem,
+    $font-family-sans-serif: 'Futura LT',
+    $container-padding-x: 3rem,
+    $table-border-width: 1px,
+    $table-border-color: #dee2e6,
+
+
+);
+
+caption {
+  caption-side: bottom;
+  text-align: center;
+  padding-top: 0.5rem;
+  font-size: 1rem;
+}
